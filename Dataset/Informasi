@@ -1,2 +1,3 @@
 Dataset yang digunakan:
-Data dikumpulkan melalui ekstraksi dataset dari platform media sosial Twitter yang berfokus pada tweet yang membahas tentang Non-Fungible Token. Proses pengambilan data ini dilakukan secara otomatis pada tanggal 19 November 2022 dengan memanfaatkan alat-alat dalam bahasa pemrograman Python
+Data dikumpulkan melalui ekstraksi dataset dari platform media sosial Twitter yang berfokus pada tweet yang membahas tentang Non-Fungible Token. 
+Proses pengambilan data ini dilakukan secara otomatis pada tanggal 19 November 2022 dengan memanfaatkan alat-alat dalam bahasa pemrograman Python
